@@ -2,7 +2,12 @@
 
 
 
-
 - 🌱 I’m currently learning javascript.
   
+
+
+
+
+
+
 
