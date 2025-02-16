@@ -1,0 +1,25 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="800" height="200" fill="#f0f0f0"/>
+    
+    <!-- Neon Glow Text -->
+    <text x="50%" y="50%" font-size="50" font-family="Arial, sans-serif" font-weight="bold" fill="#00e6ff" text-anchor="middle" dominant-baseline="middle" stroke="#00e6ff" stroke-width="1" filter="url(#neon-glow)">
+        Welcome to My GitHub
+    </text>
+    
+    <!-- Moving Neon Line -->
+    <line x1="0" y1="180" x2="800" y2="180" stroke="#ff00ff" stroke-width="4">
+        <animate attributeName="x1" from="0" to="800" dur="2s" repeatCount="indefinite" />
+        <animate attributeName="x2" from="800" to="0" dur="2s" repeatCount="indefinite" />
+    </line>
+    
+    <!-- Neon Glow Filter -->
+    <defs>
+        <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
+            <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+            <feMerge>
+                <feMergeNode in="coloredBlur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+</svg>
