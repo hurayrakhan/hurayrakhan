@@ -1,5 +1,12 @@
 ![image](https://github.com/user-attachments/assets/a7cf9a24-0986-4395-b938-e24cd9040378)
-### 🌐 Let's Connect
+
+
+- 🌱 I’m currently learning javascript.
+
+
+
+
+## 🌐 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hurayrakhan/">
@@ -13,8 +20,6 @@
   </a>
 </div>
 
-
-- 🌱 I’m currently learning javascript.
   
 
 
