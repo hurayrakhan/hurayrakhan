@@ -7,7 +7,7 @@
     <samp>
       <b style="font-size: 52px; color: #e0fbfc; letter-spacing: 1px; text-shadow: 0 0 5px #7209b7;">Welcome</b>
       <br />
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&repeat=false&width=550&lines=Hi%F0%9F%91%8B%2C+I'm+Hurayra+Khan.;Junior+Web-Dveloper." alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&width=550&lines=Hi%F0%9F%91%8B%2C+I'm+Hurayra+Khan.;Junior+Web-Dveloper." alt="Typing SVG" /></a>
       <br />
     </samp>
   </p>
