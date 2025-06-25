@@ -117,10 +117,10 @@
         </div>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">CafePulse Coffee Shop</h3>
+        <h3 align="center">Dish Dive</h3>
         <div align="center">
-          <a href="https://coffee-ak.onrender.com/" target="_blank">
-            <img src="https://github.com/Ashwanikumar0555/Coffee-/blob/main/src/assets/banner.png.png" width="100%" alt="CafePulse Project" />
+          <a href="https://dishdive-a10.web.app/" target="_blank">
+            <img src="https://i.ibb.co/GQYVh5dR/Screenshot-2025-06-25-102615.png" width="100%" alt="CafePulse Project" />
           </a>
           <br>
           <br>
@@ -148,23 +148,13 @@
 <h2 align="center">🌟 Additional Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/Ashwanikumar0555?tab=repositories" target="_blank">
+  <a href="https://github.com/hurayrakhan?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/View%20All%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
   </a>
 </div>
 
 <br>
 
-
-
-
-<div align="center">
-  <h2>📊 GitHub Stats:</h2>
-   
-
- </div>
-
-   
   </details>
 </div>
 
