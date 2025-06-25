@@ -47,7 +47,7 @@
     <td valign="top" width="33%">
       <h3 align="center">Frontend</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=react,redux,javascript,html,css" alt="Frontend Technologies" />
+        <img src="https://skillicons.dev/icons?i=react,javascript,html,css" alt="Frontend Technologies" />
         <br>
         <img src="https://skillicons.dev/icons?i=tailwind,materialui" alt="Frontend Frameworks & Libraries" />
       </div>
@@ -81,6 +81,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hurayrakhan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" alt="Most Used Languages" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hurayrakhan&theme=tokyonight" width="49%" alt="GitHub Profile Details" />
+
+  <br><br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hurayrakhan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 <h2 align="center">🚀 Featured Projects</h2>
@@ -92,7 +95,7 @@
         <h3 align="center">Buy&Bulk E-commerce Platform</h3>
         <div align="center">
           <a href="https://buynbulk-11.web.app/" target="_blank">
-            <img src="https://github.com/hurayrakhan/luxora/blob/main/frontend/src/assets/Banner.png" width="100%" alt="Luxora Project" />
+            <img src="https://i.ibb.co/vxtXFWVS/Screenshot-2025-06-25-093731.png" width="100%" alt="Luxora Project" />
           </a>
           <br>
           <br>
@@ -100,13 +103,13 @@
             <a href="https://github.com/hurayrakhan/buy-bulk-client" target="_blank">
               <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
             </a>
-            <a href="https://vocal-pithivier-6af21a.netlify.app/" target="_blank">
+            <a href="https://buynbulk-11.web.app/" target="_blank">
               <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
             </a>
           </div>
           <br>
           <p>
-            <strong>React • Node.js • Express • MongoDB • Redux • JWT</strong>
+            <strong>React • Node.js • Express • MongoDB •  JWT</strong>
           </p>
           <p>
             A comprehensive e-commerce solution featuring user authentication, product management, shopping cart, secure checkout, and an admin dashboard with analytics.
@@ -157,10 +160,8 @@
 
 <div align="center">
   <h2>📊 GitHub Stats:</h2>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hurayrakhan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-   <img src="https://github-readme-stats.vercel.app/api?username=hurayrakhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-<br><br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hurayrakhan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+   
+
  </div>
 
    
