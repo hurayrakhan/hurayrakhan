@@ -120,15 +120,15 @@
         <h3 align="center">Dish Dive</h3>
         <div align="center">
           <a href="https://dishdive-a10.web.app/" target="_blank">
-            <img src="https://i.ibb.co/GQYVh5dR/Screenshot-2025-06-25-102615.png" width="100%" alt="CafePulse Project" />
+            <img src="https://i.ibb.co/6RpB82Rk/Screenshot-2025-06-27-061057.png" width="100%" alt="DishDive Project" />
           </a>
           <br>
           <br>
           <div>
-            <a href="https://github.com/Ashwanikumar0555/Coffee-" target="_blank">
+            <a href="https://github.com/hurayrakhan/dishdive" target="_blank">
               <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
             </a>
-            <a href="https://coffee-ak.onrender.com/" target="_blank">
+            <a href="https://dishdive-a10.web.app/" target="_blank">
               <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
             </a>
           </div>
@@ -137,7 +137,7 @@
             <strong>React • Tailwind CSS • JavaScript • Framer Motion</strong>
           </p>
           <p>
-            A modern and responsive coffee shop website featuring elegant UI design, smooth animations, menu showcase, and online ordering capabilities.
+            DishDive is a recipe-sharing web app built with MERN stack, Firebase Auth, and Tailwind CSS. Users can browse, add, and manage recipes with filtering, sorting, and a responsive UI.
           </p>
         </div>
       </td>
