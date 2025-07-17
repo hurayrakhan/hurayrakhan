@@ -16,10 +16,10 @@
     <strong><samp>」</samp></strong>
   </p>
 
-  <details align="left" style="margin-top: 25px; border: 2px solid #7209b7; border-radius: 10px; padding: 20px; background: #1b263b;">
-<!--     <summary style="cursor: pointer; font-size: 20px; color: #7209b7; font-weight: bold;">
-      <samp><b>More Info ⌨️</b></samp>
-    </summary> -->
+ 
+<!--     <summary style="cursor: pointer; font-size: 20px; color: #7209b7; font-weight: bold;"> -->
+<!--       <samp><b>More Info ⌨️</b></samp> -->
+<!--     </summary> -->
    </br>
   </br>
     <h2 align="center">🌐 Let's Connect</h2>
@@ -155,7 +155,7 @@
 
 <br>
 
-  </details>
+  
 </div>
 
 
