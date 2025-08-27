@@ -49,7 +49,7 @@
       <div align="center">
         <img src="https://skillicons.dev/icons?i=react,javascript,html,css" alt="Frontend Technologies" />
         <br>
-        <img src="https://skillicons.dev/icons?i=tailwind,materialui" alt="Frontend Frameworks & Libraries" />
+        <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="Frontend Frameworks & Libraries" />
       </div>
     </td>
     <td valign="top" width="33%">
