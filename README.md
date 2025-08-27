@@ -47,7 +47,7 @@
     <td valign="top" width="33%">
       <h3 align="center">Frontend</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=react,javascript,html,css" alt="Frontend Technologies" />
+        <img src="https://skillicons.dev/icons?i=nextjs,react,javascript,html,css" alt="Frontend Technologies" />
         <br>
         <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="Frontend Frameworks & Libraries" />
       </div>
